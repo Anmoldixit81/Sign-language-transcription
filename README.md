@@ -26,7 +26,7 @@ This project is a **Sign Language Recognition System** that leverages a hybrid m
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/pratham-asthana/MADHYAM
+   git clone https://github.com/Anmoldixit81/Sign-language-transcription
 
 ## 🧠 Model Architecture
 
