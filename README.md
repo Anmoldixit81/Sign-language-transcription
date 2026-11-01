@@ -73,10 +73,10 @@ We welcome contributions! If you'd like to contribute, follow these steps:
 
 For questions, feedback, or collaboration opportunities, feel free to reach out:
 
-- **Pratham Asthana** 👤  
-- 📧 (prathamasthana04@gmail.com)   
-- 💬 ([https://github.com/pratham-asthana])
-- LinkedIn: ([https://www.linkedin.com/in/pratham-asthana-243133265/])
+- **Anmol Dixit** 👤  
+- 📧 (dixitanmol81@gmail.com)   
+- 💬 ([https://github.com/Anmoldixit81])
+- LinkedIn: ([https://www.linkedin.com/in/anmol-dixit-322167321/])
 - **Aryan Verma**
 - 📧 (aryanv090803@gmail.com)
 - 💬 ([https://github.com/Aryanv-0908](https://www.linkedin.com/in/aryan-verma-aa8a04263/))
